@@ -8,6 +8,6 @@ alt: image-alt
 #client: Start Bootstrap
 #category: Web Development
 link1: https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io
-desc1: Forecasting : How many cartons of eggs?
+desc1: "Forecasting : How many cartons of eggs?"
 description: Using supplychain theory, problems in forecasting, inventory control, demand aggregation and queuing/capacity utilization are tackled
 ---
