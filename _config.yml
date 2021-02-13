@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   #copyright: Dr. Henry Jekyll
-  location: Affiliation
-  social: Social
-  credits: Website Credits
+  Affiliation: address
+  social: social
+  Website Credits: credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
