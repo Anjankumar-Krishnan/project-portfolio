@@ -7,7 +7,7 @@ img: Customer-Analytics-01.png
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-link1: https://anjankumar-krishnan.github.io/
+link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/homealarm-clv/blob/main/homealarm-clv_anjan_git_publish.html
 desc1: "Customer Lifetime Value (CLV) Analysis : Home Alarm"
 link2: https://anjankumar-krishnan.github.io/
 desc2: "Recency-Frequency-Monetary (RFM) Targeting : Tuango"
