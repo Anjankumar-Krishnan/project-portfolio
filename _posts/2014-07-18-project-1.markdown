@@ -8,7 +8,7 @@ img: Customer-Analytics-01.png
 #client: Start Bootstrap
 #category: Web Development
 Link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/homealarm-clv/blob/main/homealarm-clv_anjan_git_publish.html
-Desc1: Customer Lifetime Value (CLV) Analysis : Home Alarm
+#Desc1: Customer Lifetime Value (CLV) Analysis : Home Alarm
 Link2: https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/tuango-rfm_anjan_git_publish.ipynb
 Desc2: Recency-Frequency-Monetary (RFM) Targeting : Tuango
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
