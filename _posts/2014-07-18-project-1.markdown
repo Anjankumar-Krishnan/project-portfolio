@@ -9,5 +9,5 @@ alt: image-alt
 #category: Web Development
 Customer Lifetime Value (CLV) Analysis: Home Alarm
 Recency-Frequency-Monetary (RFM) Targeting: Tuango
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
