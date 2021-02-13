@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   #copyright: Dr. Henry Jekyll
-  Location: address
-  social: social
-  Credits: credits
+  location1: address2
+  social3: social4
+  #credits5: credits6
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: La Jolla, CA
 
 # Credits content
-credits: 'Created using Freelancer (free to use, open source Bootstrap theme) provided by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Created using Freelancer (free to use, open source Bootstrap theme) provided by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
