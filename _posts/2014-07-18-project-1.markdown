@@ -7,7 +7,7 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-Customer Lifetime Value (CLV) Analysis: Home Alarm
-Recency-Frequency-Monetary (RFM) Targeting: Tuango
+Link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/homealarm-clv/blob/main/homealarm-clv_anjan_git_publish.html
+Link2: https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/tuango-rfm_anjan_git_publish.ipynb
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
