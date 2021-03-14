@@ -7,6 +7,7 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-Insurance policy evaluation: Ontario gateway
-description: In the event, a random variable's distribution doesn't conform to a known probabality distribution, owing to aggregation of those variables to form performance metrics, simulation modeling has been employed to calculate them and aid business decision-making
+link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/Ontario%20Gateway%20Insurance%20Analysis.html
+desc1: "Insurance policy evaluation: Ontario gateway"
+description: When random variables are aggregated to form a new performance metric (eg. total business profit), the aggregated random variable's distribution doesn't conform to a known probabality distribution. In such cases simulation modeling has been employed to calculate such random variables and aid business decision-making
 ---
