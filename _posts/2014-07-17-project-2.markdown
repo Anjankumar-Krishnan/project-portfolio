@@ -7,7 +7,7 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-link1: https://anjankumar-krishnan.github.io/
+link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/Comparison%20of%20forecast%20models%20%E2%80%93%20Egg%20Carton%20Weekly%20Demand.html
 desc1: "Forecasting : How many cartons of eggs?"
 description: Using supplychain theory, problems in forecasting, inventory control, demand aggregation and queuing/capacity utilization are tackled
 ---
