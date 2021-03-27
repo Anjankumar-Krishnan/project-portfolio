@@ -11,7 +11,7 @@ link1: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishn
 desc1: "Customer Lifetime Value (CLV) Analysis : Home Alarm"
 link2: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/cb41b317057e8faa3ce651e24704d98bc05660d2/tuango-rfm_anjan_git_publish.ipynb
 desc2: "Recency-Frequency-Monetary (RFM) Targeting : Tuango"
-link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/359f21212d5a6781ab140aec03a1eb5c002501eb/pentathlon_nptb_git_publish.ipynb
+link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/362f504ad652c0253c2bbe5dc27d9c8f84175f23/pentathlon_nptb_git_publish.ipynb
 desc3: "Predictive model recommending next product to buy (NPTB) : Pentathlon"
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
