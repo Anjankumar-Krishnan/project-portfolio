@@ -11,7 +11,9 @@ link1: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishn
 desc1: "Customer Lifetime Value (CLV) Analysis : Home Alarm"
 link2: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/cb41b317057e8faa3ce651e24704d98bc05660d2/tuango-rfm_anjan_git_publish.ipynb
 desc2: "Recency-Frequency-Monetary (RFM) Targeting : Tuango"
-link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/362f504ad652c0253c2bbe5dc27d9c8f84175f23/pentathlon_nptb_git_publish.ipynb
+link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/ceba324fbb4a0d7b4b1102f6161ade56e6dcd8ee/pentathlon_nptb_git_publish.ipynb
 desc3: "Predictive model recommending next product to buy (NPTB) : Pentathlon"
+link4: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/ceba324fbb4a0d7b4b1102f6161ade56e6dcd8ee/intuit_redux_git_publish.ipynb
+desc4: "Modeling response to an up-selling campaign: Intuit QuickBooks Upgrade"
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
