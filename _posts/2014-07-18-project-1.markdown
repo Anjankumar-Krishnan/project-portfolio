@@ -13,7 +13,7 @@ link2: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishn
 desc2: "Recency-Frequency-Monetary (RFM) Targeting : Tuango"
 link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/ceba324fbb4a0d7b4b1102f6161ade56e6dcd8ee/pentathlon_nptb_git_publish.ipynb
 desc3: "Predictive model recommending next product to buy (NPTB) : Pentathlon"
-link4: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/ceba324fbb4a0d7b4b1102f6161ade56e6dcd8ee/intuit_redux_git_publish.ipynb
+link4: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/64e72d534582f81c9775868d3ed96e93d622282b/intuit_redux_git_publish.ipynb
 desc4: "Modeling response to an up-selling campaign: Intuit QuickBooks Upgrade"
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
