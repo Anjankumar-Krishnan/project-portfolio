@@ -15,5 +15,7 @@ link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishn
 desc3: "Predictive model recommending next product to buy (NPTB) : Pentathlon"
 link4: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/64e72d534582f81c9775868d3ed96e93d622282b/intuit_redux_git_publish.ipynb
 desc4: "Modeling response to an up-selling campaign: Intuit QuickBooks Upgrade"
+link5: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/fc7a6ef8783eeeb2c3643b2b5cc909f527e0dbbe/dqr_automate_git_publish.ipynb
+desc5: "Automated Data Quality Report (DQR) generation on tabular data"
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
