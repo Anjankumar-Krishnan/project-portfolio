@@ -51,6 +51,20 @@
                                     </li>
                                 {% endif %}
                                 <br>
+                               {% if post.link5 %}
+                                    <li>
+                                     <strong><a href="{{ post.link5 }}"><h5>{{ post.desc5 }}</h5></a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                <br>
+                               {% if post.link6 %}
+                                    <li>
+                                     <strong><a href="{{ post.link6 }}"><h5>{{ post.desc6 }}</h5></a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                <br>
                                 {% if post.category %}
                                     <li>Service:
                                         <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
