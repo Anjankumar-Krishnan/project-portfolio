@@ -9,7 +9,7 @@ alt: image-alt
 #category: Web Development
 link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/Ontario%20Gateway%20Insurance%20Analysis.html
 desc1: "Insurance policy evaluation: Ontario gateway"
-link2: https://vimeo.com/668466171/4004114b28
+link2: https://vimeo.com/668482417/89c2d11293
 desc2: "Discrete Event Simulation: Mine Site Productivity - Haulers in motion"
 description: When random variables are aggregated to form a new performance metric (eg. total business profit), the aggregated random variable's distribution doesn't conform to a known probabality distribution. In such cases simulation modeling has been employed to calculate such random variables and aid business decision-making
 ---
