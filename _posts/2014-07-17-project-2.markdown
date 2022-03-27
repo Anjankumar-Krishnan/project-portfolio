@@ -9,7 +9,7 @@ alt: image-alt
 #category: Web Development
 link1: https://htmlpreview.github.io/?https://github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/Comparison%20of%20forecast%20models%20%E2%80%93%20Egg%20Carton%20Weekly%20Demand.html
 desc1: "Forecasting : How many cartons of eggs?"
-link2: https://nbviewer.jupyter.org/github.com/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/Conjoint%20analysis-pricing_analytics_git_publish.html
+link2: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/Conjoint%20analysis-pricing_analytics_git_publish.ipynb
 desc2: "How to price a golf ball product?"
 description: Problems in forecasting and pricing analytics are explored
 ---
