@@ -8,14 +8,14 @@ img: Customer-Analytics-01.png
 #client: Start Bootstrap
 #category: Web Development
 link1: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/cb41b317057e8faa3ce651e24704d98bc05660d2/homealarm-clv_anjan_git_publish.ipynb
-desc1: "Customer Lifetime Value (CLV) Analysis : Home Alarm"
+desc1: "Which subscription model has higher customer lifetime value?"
 link2: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/cb41b317057e8faa3ce651e24704d98bc05660d2/tuango-rfm_anjan_git_publish.ipynb
-desc2: "Recency-Frequency-Monetary (RFM) Targeting : Tuango"
+desc2: "How can customers' past behaviour inform a mobile app push messaging service?"
 link3: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/ceba324fbb4a0d7b4b1102f6161ade56e6dcd8ee/pentathlon_nptb_git_publish.ipynb
-desc3: "Predictive model recommending next product to buy (NPTB) : Pentathlon"
+desc3: "Next apparel category a customer is likely to purchase"
 link4: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/64e72d534582f81c9775868d3ed96e93d622282b/intuit_redux_git_publish.ipynb
-desc4: "Modeling response to an up-selling campaign: Intuit QuickBooks Upgrade"
+desc4: "Which customers would respond best to a software upsell?"
 link5: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/fc7a6ef8783eeeb2c3643b2b5cc909f527e0dbbe/dqr_automate_git_publish.ipynb
-desc5: "Automated Data Quality Report (DQR) generation on tabular data"
+desc5: "How to automate a Data Quality Report (DQR) on tabular data?"
 description: Leveraging customer data to help estimate value from retaining customers, maximizing return on marketing expenditure through targeting and predictive modeling
 ---
