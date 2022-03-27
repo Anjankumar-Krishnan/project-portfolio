@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 #date: 2014-07-17
-img: Supply-Chain-Analytics.png
+img: ops_and_pricing_analytics.png
 alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
