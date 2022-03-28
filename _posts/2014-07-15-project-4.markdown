@@ -3,11 +3,11 @@ layout: default
 modal-id: 4
 #date: 2014-07-15
 img: fraud_analytics_resized.png
-alt: image-alt
+#alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
 link1: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/NYC_property_tax_listings_anomaly_detection_git_publish.ipynb
 desc1: Which NYC property tax listings are anomalous?
-#description: Unsupervised and supervised machine learning algorithms are used o detect anomalies and fradulent transactions
+description: Unsupervised and supervised machine learning algorithms are used o detect anomalies and fradulent transactions
 ---
