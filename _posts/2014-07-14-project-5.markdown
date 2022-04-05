@@ -8,6 +8,6 @@ img: credit_risk_modeling_caption.png
 #client: Start Bootstrap
 #category: Web Development
 link1: https://nbviewer.jupyter.org/github/Anjankumar-Krishnan/anjankumar-krishnan.github.io/blob/main/credit_card_default_classification_git_publish.ipynb
-desc1: How likely is a credit card user likely ot default on payment?
+desc1: How likely is a credit card user likely to default on payment?
 description: Credit risk and underwriting models are created using statistical modeling (regressions) and machine learning techniques
 ---
